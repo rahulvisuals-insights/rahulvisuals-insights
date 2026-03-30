@@ -65,6 +65,15 @@
 
 ---
 
+## 🎬 Dashboard Projects Showcase
+
+<p align="center">
+  <img src="https://github.com/rahulvisuals-insights/rahulvisuals-insights/raw/main/images/dashboard-slideshow.gif" width="900"/>
+</p>
+
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
